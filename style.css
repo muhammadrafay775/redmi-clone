@@ -1,0 +1,158 @@
+#one{
+    height: 1000px;
+    width: 750px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+   background-image: url(https://mistore.pk/cdn/shop/files/Xiaomi_Gaming_Monitor_G27i_Tile_Rs._42_999.jpg?v=1746708919);
+   background-size: contain;
+   text-align: center;
+
+}
+#two{
+    height: 1000px;
+    width: 750px;
+       background-color: white;
+   border: 3px solid black;
+    margin: 50px;
+    display: inline-block;
+background-image: url(https://mistore.pk/cdn/shop/files/Xiaomi_33W_Power_Bank_10000_Integrated_Cable_Tile_3.jpg?v=1747038415);
+background-size: contain;
+text-align: center;
+   
+}
+#three{
+    height: 1000px;
+    width: 750px;
+       background-color: white;
+   border: 3px solid black;
+    margin: 50px;
+    display: inline-block;
+    background-image: url(https://mistore.pk/cdn/shop/files/Xiaomi_Multifunctional_Rice_Cooker_4L_Tile.jpg?v=1740641927);
+    background-size: cover;
+}
+#four{
+   height: 1000px;
+    width: 750px;
+       background-color: white;
+   border: 3px solid black ;
+    margin: 50px;
+    display: inline-block;
+    background-image: url(https://mistore.pk/cdn/shop/files/Xiaomi_tv_Series.jpg?v=1740641577);
+    background-size: auto;
+  
+}
+#five{
+   height: 1000px;
+    width: 750px;
+       background-color: white;
+   border: 3px solid black;
+    margin: 50px;
+    display: inline-block;
+    background-image: url(https://mistore.pk/cdn/shop/files/Redmi_Watch_5_Active_Mobile_2_1.jpg?v=1744887972);
+   background-size:contain;
+}
+#six{
+   height: 1000px;
+    width: 750px;
+       background-color: white;
+   border: 3px solid black;
+    margin: 50px;
+    display: inline-block;
+    background-image: url(https://mistore.pk/cdn/shop/files/youtube_video_thumbnail.jpg?v=1735822244);
+    background-size: contain;
+}
+#box1{
+
+    height: 1000px;
+    width: 900px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+   background-image: url(https://mistore.pk/cdn/shop/files/redmi-note-13-8gb-256gb-_black_300x.webp?v=1743145973);
+   background-size: cover;
+}
+#box2{
+
+    height: 1000px;
+    width: 900px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+   background-image: url(https://mistore.pk/cdn/shop/files/redmi-a3-4gb-64gb-314715_grande_02a929ff-bc2a-4673-bca2-04a0035d5c86_300x.webp?v=1734027903);
+   background-size: cover;
+}
+#box3{
+
+    height: 1000px;
+    width: 900px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+   background-image: url(https://mistore.pk/cdn/shop/files/RedmiA5Gold_300x.jpg?v=1744882177);
+   background-size: cover;
+}
+#box4{
+
+    height: 1000px;
+    width: 900px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+   background-image: url(https://mistore.pk/cdn/shop/files/redminote14greecolor_300x.jpg?v=1737960229);
+   background-size: cover;
+}
+#box5{
+
+    height: 1000px;
+    width: 900px;
+   background-color: white;
+   border: 3px solid black;
+   margin: 50px;
+   display: inline-block;
+    background-image: url(https://mistore.pk/cdn/shop/files/Artboard_1_copy_2_fc5f212e-6fa2-445c-9c22-10f7d3807e82_300x.jpg?v=1731328995);
+   background-size: cover;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    width: 5350px;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+#EMAIL{
+    background-color: WHITE;
+    color: black;
+    outline-color: ;
+    height: 200PX;
+    width: 1200PX;
+    text-shadow: 45PX;
+    text-align: center;
+}
+.h1{
+    font-size: 100px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+@media(width:600px){
+    div{
+        background-color: black;
+    }
+}
+ @media(max-width:600px){
+    div{
+        background-color: black;
+    }
+}   
+@media(min-width:600px){
+    div{
+        background-color: black;
+    }
+}
